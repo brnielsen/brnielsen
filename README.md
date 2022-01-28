@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### My name is Brian Nielsen and I'm looking to make educational games.
+
 <!--
 **brnielsen/brnielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
