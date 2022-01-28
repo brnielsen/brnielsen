@@ -2,7 +2,7 @@
 
 ### I'm a self taught Unity Developer looking to make educational games. 
 
-### Here is a link to my current finished projects: https://brnielsen.itch.io/
+### Here is a link to my finished projects: https://brnielsen.itch.io/
 
 
 
