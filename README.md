@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi, I'm Brian Nielsen 👋
 
-### My name is Brian Nielsen and I'm looking to make educational games.
+### I'm a self taught Unity Developer looking to make educational games. 
+
+### Here is a link to my current finished projects: https://brnielsen.itch.io/
+
+
 
 <!--
 **brnielsen/brnielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
