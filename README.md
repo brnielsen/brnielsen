@@ -1,6 +1,6 @@
 ### Hi, I'm Brian Nielsen 👋
 
-### I'm a self taught Unity Developer looking to make educational games. 
+### Unity Developer making educational games. 
 
 ### Here is a link to my finished projects: https://brnielsen.itch.io/
 
